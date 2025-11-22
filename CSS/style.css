@@ -1,8 +1,20 @@
-/* Estilo Css para el título*/
-#titulo { 
-        color : blue; /* Cambia el color del texto a azul */
-    }
-/* Estilo Css para el texto*/
-    p { 
-        font-family: Arial, sans-serif; /* Cambia la fuente de letra a Arial  */
-    }
+
+h1 {
+text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+ul {
+    font-size: 20px;   
+    text-align: left;  
+}
+p { 
+        font-family: Arial, sans-serif;
+        font-style: italic;
+        text-align: justify;
+        text-decoration: overline;
+}
